@@ -49,11 +49,11 @@ FootDia         =  6;
 FootHole        =  0;
 TabHeight       =  6;
 
-/* [STL elements to export] */
-TShell          = 0;// [0:No, 1:Yes]
-BShell          = 0;// [0:No, 1:Yes]
+/* [STL elements to view/export] */
+TShell          = 1;// [0:No, 1:Yes]
+BShell          = 1;// [0:No, 1:Yes]
 FPanL           = 1;// [0:No, 1:Yes]
-BPanL           = 0;// [0:No, 1:Yes]
+BPanL           = 1;// [0:No, 1:Yes]
 
 /* [Hidden] */
 Couleur1        = "Orange";  // Shell Colour
