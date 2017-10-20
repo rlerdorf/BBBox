@@ -33,7 +33,7 @@ BBPosY    = 2;
 BBLength  = 82.5;
 BBHeight  =  9.5;
 BBWidth   = 54.5;
-TabWidth  =  3.2;
+TabWidth  =  3.2; // These tabs tend to vary from one brand to another. Measure carefully!
 TabDepth  =  1.5;
 TabHeight =  5.8;
 
